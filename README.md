@@ -1,6 +1,7 @@
 ### Olá eu sou a Camila Rodrigues 👋😊
 
 Sou uma programadora recém formada em curso técnico de desenvolvimento de sistemas.<br/>
+Também sou designer, amo manipulação de imagens e consigo fazer com qualquer ferramenta que eu tiver, consigo me adaptar bem com o que tenho.<br/>
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-rodrigues-5a623a225/) 
