@@ -11,7 +11,7 @@ Também sou designer, amo manipulação de imagens e consigo fazer com qualquer 
 
 ![Camila GitHub stats](https://github-readme-stats.vercel.app/api?username=CammyArts&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CammyArts&layout=donut)](https://github.com/CammyArts/github-readme-stats)
 
 ## Competências:
 <div style="display: inline_block">
