@@ -11,7 +11,7 @@ Também sou designer, amo manipulação de imagens e consigo fazer com qualquer 
 
 ![Camila GitHub stats](https://github-readme-stats.vercel.app/api?username=CammyArts&show_icons=true&theme=synthwave)
 
-### Competências:
+## Competências:
 <div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-BA55D3?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="css5" src="https://img.shields.io/badge/CSS3-8B008B?style=for-the-badge&logo=css3&logoColor=white" />
@@ -26,4 +26,7 @@ B1
 <br/>
 Sempre fui apaixonada💖 por tecnologia, programação de websites.
 
-
+## Obrigado por visitar o meu perfil 🤗
+<div>
+<img alt="agradecimentos" src="https://i.pinimg.com/originals/dd/85/a2/dd85a2e9b143dc5bae77b0b2d9b7ea74.gif"/>
+<div/>
