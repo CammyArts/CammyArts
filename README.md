@@ -11,6 +11,8 @@ Também sou designer, amo manipulação de imagens e consigo fazer com qualquer 
 
 ![Camila GitHub stats](https://github-readme-stats.vercel.app/api?username=CammyArts&show_icons=true&theme=synthwave)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Competências:
 <div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-BA55D3?style=for-the-badge&logo=html5&logoColor=white" />
