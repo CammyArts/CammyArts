@@ -13,15 +13,21 @@ Também sou designer, amo manipulação de imagens e consigo fazer com qualquer 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CammyArts&layout=donut)](https://github.com/CammyArts/github-readme-stats)
 
-## Competências:
+## Tecnologias:
 <div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-BA55D3?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="css5" src="https://img.shields.io/badge/CSS3-8B008B?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" alt="python" src="https://img.shields.io/badge/Python-836FFF?style=for-the-badge&logo=python&logoColor=white" />
+<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-8B008B?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
 <br/><br/>
+
+## Competências:
+<br/>
 <img align="center" alt="Libras" src="https://img.shields.io/badge/🤘Libras-DDA0DD?style=for-the-badge&logo" />
 Básico
 <br/><br/>
-
 <img align="center" alt="Inglês" src="https://img.shields.io/badge/Inglês-C71585?style=for-the-badge&logo"/>
 B1
 </div>
