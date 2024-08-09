@@ -20,6 +20,9 @@ Também sou designer, amo manipulação de imagens e consigo fazer com qualquer 
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-836FFF?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-8B008B?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align="center" alt="bootstrap" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="center" alt="bootstrap" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img align="center" alt="bootstrap" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 
 <br/><br/>
 
